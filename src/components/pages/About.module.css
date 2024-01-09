@@ -1,0 +1,64 @@
+.about_container {
+    width: 100%;
+    display: flex;
+    padding-top: 1em;
+    align-items: center;
+    flex-direction: column;
+}
+
+.about_container h1 {
+    margin: 1em 1.5em;
+    font-size: 2em;
+}
+
+.about_container p {
+    text-align: justify;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    width: 70%;
+}
+
+.about_container p span {
+    font-weight: bold;
+}
+
+.about_container h2 {
+    margin: 1.5em;
+}
+
+.categories_info {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+}
+
+.category_create {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.category_create input {
+    width: 50em;
+}
+
+.category_create button{
+    margin: 1em;
+}
+
+.btn {
+    background-color: #4343fa;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    max-height: 40px;
+    border: none;
+}
+
+.btn:hover {
+    background-color:#6e6efd;
+}

@@ -1,0 +1,296 @@
+{
+  "livros": [
+    {
+      "name": "Capitães de areia",
+      "author": "Jorge Amado",
+      "pages": "272",
+      "company": "Record, 2006",
+      "edition": "120",
+      "category": {
+        "id": "12",
+        "name": "Literatura e ficção"
+      },
+      "age": {
+        "id": "4",
+        "name": "16 anos"
+      },
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Administração, negócios e economia"
+    },
+    {
+      "id": 2,
+      "name": "Autoajuda"
+    },
+    {
+      "id": 3,
+      "name": "Bibliografias e historias reais"
+    },
+    {
+      "id": 4,
+      "name": "Ciências"
+    },
+    {
+      "id": 5,
+      "name": "Computação, informática e midias sociais"
+    },
+    {
+      "id": 6,
+      "name": "Direito"
+    },
+    {
+      "id": 7,
+      "name": "Espiritualidade e religião"
+    },
+    {
+      "id": 8,
+      "name": "Fantasia, horror e ficção científica"
+    },
+    {
+      "id": 9,
+      "name": "HQs, mangas e graphic novels"
+    },
+    {
+      "id": 10,
+      "name": "História"
+    },
+    {
+      "id": 11,
+      "name": "Infantil"
+    },
+    {
+      "id": 12,
+      "name": "Literatura e ficção"
+    },
+    {
+      "id": 13,
+      "name": "Policial, suspense e mistério"
+    },
+    {
+      "id": 14,
+      "name": "Política, filosofia e ciências sociais"
+    },
+    {
+      "id": 15,
+      "name": "Romance"
+    },
+    {
+      "0": {
+        "id": 1,
+        "name": "Administração, negócios e economia"
+      },
+      "1": {
+        "id": 2,
+        "name": "Autoajuda"
+      },
+      "2": {
+        "id": 3,
+        "name": "Bibliografias e historias reais"
+      },
+      "3": {
+        "id": 4,
+        "name": "Ciências"
+      },
+      "4": {
+        "id": 5,
+        "name": "Computação, informática e midias sociais"
+      },
+      "5": {
+        "id": 6,
+        "name": "Direito"
+      },
+      "6": {
+        "id": 7,
+        "name": "Espiritualidade e religião"
+      },
+      "7": {
+        "id": 8,
+        "name": "Fantasia, horror e ficção científica"
+      },
+      "8": {
+        "id": 9,
+        "name": "HQs, mangas e graphic novels"
+      },
+      "9": {
+        "id": 10,
+        "name": "História"
+      },
+      "10": {
+        "id": 11,
+        "name": "Infantil"
+      },
+      "11": {
+        "id": 12,
+        "name": "Literatura e ficção"
+      },
+      "12": {
+        "id": 13,
+        "name": "Policial, suspense e mistério"
+      },
+      "13": {
+        "id": 14,
+        "name": "Política, filosofia e ciências sociais"
+      },
+      "14": {
+        "id": 15,
+        "name": "Romance"
+      },
+      "name": "Esporte e lazer",
+      "id": 16
+    },
+    {
+      "0": {
+        "id": 1,
+        "name": "Administração, negócios e economia"
+      },
+      "1": {
+        "id": 2,
+        "name": "Autoajuda"
+      },
+      "2": {
+        "id": 3,
+        "name": "Bibliografias e historias reais"
+      },
+      "3": {
+        "id": 4,
+        "name": "Ciências"
+      },
+      "4": {
+        "id": 5,
+        "name": "Computação, informática e midias sociais"
+      },
+      "5": {
+        "id": 6,
+        "name": "Direito"
+      },
+      "6": {
+        "id": 7,
+        "name": "Espiritualidade e religião"
+      },
+      "7": {
+        "id": 8,
+        "name": "Fantasia, horror e ficção científica"
+      },
+      "8": {
+        "id": 9,
+        "name": "HQs, mangas e graphic novels"
+      },
+      "9": {
+        "id": 10,
+        "name": "História"
+      },
+      "10": {
+        "id": 11,
+        "name": "Infantil"
+      },
+      "11": {
+        "id": 12,
+        "name": "Literatura e ficção"
+      },
+      "12": {
+        "id": 13,
+        "name": "Policial, suspense e mistério"
+      },
+      "13": {
+        "id": 14,
+        "name": "Política, filosofia e ciências sociais"
+      },
+      "14": {
+        "id": 15,
+        "name": "Romance"
+      },
+      "15": {
+        "0": {
+          "id": 1,
+          "name": "Administração, negócios e economia"
+        },
+        "1": {
+          "id": 2,
+          "name": "Autoajuda"
+        },
+        "2": {
+          "id": 3,
+          "name": "Bibliografias e historias reais"
+        },
+        "3": {
+          "id": 4,
+          "name": "Ciências"
+        },
+        "4": {
+          "id": 5,
+          "name": "Computação, informática e midias sociais"
+        },
+        "5": {
+          "id": 6,
+          "name": "Direito"
+        },
+        "6": {
+          "id": 7,
+          "name": "Espiritualidade e religião"
+        },
+        "7": {
+          "id": 8,
+          "name": "Fantasia, horror e ficção científica"
+        },
+        "8": {
+          "id": 9,
+          "name": "HQs, mangas e graphic novels"
+        },
+        "9": {
+          "id": 10,
+          "name": "História"
+        },
+        "10": {
+          "id": 11,
+          "name": "Infantil"
+        },
+        "11": {
+          "id": 12,
+          "name": "Literatura e ficção"
+        },
+        "12": {
+          "id": 13,
+          "name": "Policial, suspense e mistério"
+        },
+        "13": {
+          "id": 14,
+          "name": "Política, filosofia e ciências sociais"
+        },
+        "14": {
+          "id": 15,
+          "name": "Romance"
+        },
+        "name": "Esporte e lazer",
+        "id": 16
+      },
+      "name": "Engenharia e transporte",
+      "id": 17
+    }
+  ],
+  "Age": [
+    {
+      "id": 1,
+      "name": "Livre"
+    },
+    {
+      "id": 2,
+      "name": "10 anos"
+    },
+    {
+      "id": 3,
+      "name": "12 anos"
+    },
+    {
+      "id": 4,
+      "name": "16 anos"
+    },
+    {
+      "id": 5,
+      "name": "18 anos"
+    }
+  ]
+}

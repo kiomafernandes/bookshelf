@@ -1,0 +1,58 @@
+.books_container {
+    width: 100%;
+    display: flex;
+    padding-top: 1em;
+    align-items: center;
+    flex-direction: column;
+}
+
+.books_container h1 {
+    font-size: 2em;
+}
+
+.books_container_form {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1em;
+}
+
+.books_container_form a {
+    margin-right: 9em;
+    margin-bottom: 1em;
+}
+
+.books_form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    padding-bottom: 1em;
+    margin-left: 10em;
+}
+
+.linha {
+    width: 60%;
+    height: 2px;
+    background-color: #4343fa;
+    margin-bottom: 1.5em;
+}
+
+.books_form input {
+    margin-right: 0.5em;
+    width: 50em;
+}
+
+.books_content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.books_content p {
+    margin-bottom: 0.5em;
+}

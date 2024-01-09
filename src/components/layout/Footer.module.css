@@ -1,0 +1,39 @@
+.footer{
+    background-color: #4343fa;
+    color: #FFF;
+    padding: 3em;
+    text-align: center;
+}
+
+.socila_list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.socila_list li {
+    margin: 0 1em;
+}
+
+.socila_list li:hover {
+    color: #FFBB33;
+}
+
+.socila_list svg {
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.copy_right {
+    margin-top: 2em;
+}
+
+.copy_right a {
+    font-weight: bold;
+    text-decoration: none;
+    color:#FFF
+}
+
+.copy_right a:hover {
+    color: #FFBB33;
+}
